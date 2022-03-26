@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;//
+int main()
+{
+	//cout<<"hello"<<endl;//cout是库里面写好的模块
+	int a,b;
+	cin >> a>> b;
+	cout << a <<endl << b<<endl;
+	return 0;
+}
